@@ -15,6 +15,9 @@
 ### 📈 Github Stats
   
 [![PlugFox's Github Stats](https://github-readme-stats.vercel.app/api?username=plugfox&count_private=true&theme=default&show_icons=true)](https://github.com/plugfox)  
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plugfox&hide=html,css,roff,javascript)](https://github.com/plugfox)
+-->
   
   
 ### 💬 Contacts  
@@ -23,3 +26,7 @@
  + E-mail: [plugfox@gmail.com](mailto:plugfox@gmail.com)  
   
   
+<!--
+Widgets:
+https://github.com/anuraghazra/github-readme-stats
+-->
