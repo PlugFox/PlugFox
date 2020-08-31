@@ -10,16 +10,16 @@
 [![multiline](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=multiline)](https://github.com/plugfox/multiline)  
 [![pubspec_generator](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=pubspec_generator)](https://github.com/plugfox/pubspec_generator)  
 [![docker_flutter](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=docker_flutter)](https://github.com/plugfox/docker_flutter)  
+    
+  
+### 📈 Github Stats
+  
+[![PlugFox's Github Stats](https://github-readme-stats.vercel.app/api?username=plugfox&count_private=true&theme=default&show_icons=true)](https://github.com/plugfox)  
   
   
 ### 💬 Contacts  
   
  + Telegram: [@PlugFox](https://t.me/PlugFox)  
  + E-mail: [plugfox@gmail.com](mailto:plugfox@gmail.com)  
-  
-  
-### 📈 Github Stats
-  
-[![PlugFox's Github Stats](https://github-readme-stats.vercel.app/api?username=plugfox&count_private=true&theme=default&show_icons=true)](https://github.com/plugfox)  
   
   
