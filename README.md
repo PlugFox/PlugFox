@@ -41,13 +41,13 @@
   
  + [Flutter.dev](https://flutter.dev/)  
  + [Understanding constraints](https://flutter.dev/docs/development/ui/layout/constraints)  
+ + [API reference](https://master-api.flutter.dev/)  
+ + [Flutter internals](https://www.didierboelens.com/2019/09/flutter-internals/) 
  + [Flutter architectural overview](https://flutter.dev/docs/resources/architectural-overview)  
  + [Inside Flutter](https://flutter.dev/docs/resources/inside-flutter)  
  + [Platform specific behaviors and adaptations](https://flutter.dev/docs/resources/platform-adaptations)  
  + [FAQ](https://flutter.dev/docs/resources/faq)  
  + [Apps take flight with Flutter](https://flutter.dev/showcase)  
- + [Flutter internals](https://www.didierboelens.com/2019/09/flutter-internals/)  
- + [Flutter internals](https://www.didierboelens.com/2019/09/flutter-internals/)  
   
   
 ### 💬 Contacts  
