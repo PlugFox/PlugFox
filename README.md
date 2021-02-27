@@ -9,8 +9,8 @@
 [![extended_bloc](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=extended_bloc)](https://github.com/plugfox/extended_bloc)  
 [![multiline](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=multiline)](https://github.com/plugfox/multiline)  
 [![pubspec_generator](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=pubspec_generator)](https://github.com/plugfox/pubspec_generator)  
-[![docker_flutter](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=docker_flutter)](https://github.com/plugfox/docker_flutter)  
-    
+[![docker_flutter](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=docker_flutter)](https://github.com/plugfox/docker_flutter)
+  
   
 ### 📈 Github Stats  
   
@@ -50,9 +50,11 @@
  + [Apps take flight with Flutter](https://flutter.dev/showcase)  
   
   
-### 💬 Contacts  
+### 💬 Contacts & links  
   
- + Telegram: [@PlugFox](https://t.me/PlugFox)  
- + E-mail: [plugfox@gmail.com](mailto:plugfox@gmail.com)  
+ + Telegram: [@PlugFox](https://t.me/plugfox)    
+ + Gist: [gist.github.com/PlugFox](https://gist.github.com/plugfox)  
+ + E-mail: [PlugFox@gmail.com](mailto:plugfox@gmail.com)  
+ + Linkedin: [linkedin.com/in/PlugFox](https://www.linkedin.com/in/plugfox/)  
   
   
