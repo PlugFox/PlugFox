@@ -2,7 +2,7 @@
 ##### Genius, transhumanist, playtoy, fox  
   
   
-### 💬 Contacts & links  
+### 💬 Contacts  
   
 [![](https://github.com/PlugFox/PlugFox/blob/master/.img/qr-code-small-transparent.png)](https://plugfox.dev)  
  + Homepage: [PlugFox.dev](https://plugfox.dev)  
