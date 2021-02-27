@@ -2,6 +2,14 @@
 ##### Genius, transhumanist, playtoy, fox  
   
   
+### 💬 Contacts & links  
+  
+ + Telegram: [@PlugFox](https://t.me/plugfox)  
+ + Gist: [gist.github.com/PlugFox](https://gist.github.com/plugfox)  
+ + E-mail: [PlugFox@gmail.com](mailto:plugfox@gmail.com)  
+ + Linkedin: [linkedin.com/in/PlugFox](https://www.linkedin.com/in/plugfox/)  
+  
+  
 ### ⭐ Open Source Projects  
   
 [![platform_info](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=platform_info)](https://github.com/plugfox/platform_info)  
@@ -47,14 +55,6 @@
  + [Inside Flutter](https://flutter.dev/docs/resources/inside-flutter)  
  + [Platform specific behaviors and adaptations](https://flutter.dev/docs/resources/platform-adaptations)  
  + [FAQ](https://flutter.dev/docs/resources/faq)  
- + [Apps take flight with Flutter](https://flutter.dev/showcase)  
-  
-  
-### 💬 Contacts & links  
-  
- + Telegram: [@PlugFox](https://t.me/plugfox)    
- + Gist: [gist.github.com/PlugFox](https://gist.github.com/plugfox)  
- + E-mail: [PlugFox@gmail.com](mailto:plugfox@gmail.com)  
- + Linkedin: [linkedin.com/in/PlugFox](https://www.linkedin.com/in/plugfox/)  
+ + [Apps take flight with Flutter](https://flutter.dev/showcase) 
   
   
