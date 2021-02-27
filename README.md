@@ -23,9 +23,10 @@
 [![docker_flutter](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=docker_flutter)](https://github.com/plugfox/docker_flutter)
   
   
-### 📈 Github Stats  
+### 📈 Scores & Stats  
   
 [![PlugFox's Github Stats](https://github-readme-stats.vercel.app/api?username=plugfox&count_private=true&theme=default&show_icons=true)](https://github.com/plugfox)  
+[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&width=300&username=plugfox&skills=dart&show-other-skills=true)](https://profile.codersrank.io/user/plugfox)  
   
   
 ### 🎯 Dart fundamentals
