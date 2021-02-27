@@ -4,10 +4,12 @@
   
 ### 💬 Contacts & links  
   
- + Telegram: [@PlugFox](https://t.me/plugfox)  
- + Gist: [gist.github.com/PlugFox](https://gist.github.com/plugfox)  
+ + Homepage: [PlugFox.dev](https://plugfox.dev)  
+ + Telegram: [@PlugFox](https://t.me/plugfox)   
  + E-mail: [PlugFox@gmail.com](mailto:plugfox@gmail.com)  
  + Linkedin: [linkedin.com/in/PlugFox](https://www.linkedin.com/in/plugfox/)  
+ + GitHub: [github.com/PlugFox](https://github.com/PlugFox/)  
+ + Gist: [gist.github.com/PlugFox](https://gist.github.com/plugfox)  
   
   
 ### ⭐ Open Source Projects  
