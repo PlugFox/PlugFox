@@ -4,7 +4,7 @@
   
 ### 💬 Contacts & links  
   
-[![](https://github.com/PlugFox/PlugFox/blob/master/.img/qr-code-small.png)](https://plugfox.dev)  
+[![](https://github.com/PlugFox/PlugFox/blob/master/.img/qr-code-small-transparent.png)](https://plugfox.dev)  
  + Homepage: [PlugFox.dev](https://plugfox.dev)  
  + Telegram: [@PlugFox](https://t.me/plugfox)   
  + E-mail: [PlugFox@gmail.com](mailto:plugfox@gmail.com)  
