@@ -11,8 +11,7 @@
  + **Linkedin:** [linkedin.com/in/PlugFox](https://www.linkedin.com/in/plugfox/)  
  + **GitHub:** [github.com/PlugFox](https://github.com/PlugFox/)  
  + **Gist:** [gist.github.com/PlugFox](https://gist.github.com/plugfox)    
- + **Instagram:** [instagram.com/PlugFox](https://www.instagram.com/plugfox/)    
- + **Youtube:** [youtube.com/channel/UCRva5jH_39U-rLt6S9JJyUw](https://www.youtube.com/channel/UCRva5jH_39U-rLt6S9JJyUw)  
+ + **Instagram:** [instagram.com/PlugFox](https://www.instagram.com/plugfox/)   
   
   
 ### ⭐ Open Source Projects  
