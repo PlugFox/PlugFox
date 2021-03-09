@@ -59,6 +59,7 @@
  + [Flutter architectural overview](https://flutter.dev/docs/resources/architectural-overview)  
  + [Inside Flutter](https://flutter.dev/docs/resources/inside-flutter)  
  + [Platform specific behaviors and adaptations](https://flutter.dev/docs/resources/platform-adaptations)  
+ + [Widget - State - Context - InheritedWidget](https://www.didierboelens.com/2018/06/widget-state-context-inheritedwidget)  
  + [FAQ](https://flutter.dev/docs/resources/faq)  
  + [Apps take flight with Flutter](https://flutter.dev/showcase) 
   
