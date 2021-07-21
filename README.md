@@ -1,5 +1,5 @@
 # Plague 🦊 Fox  
-##### Genius, transhumanist, playtoy, fox  
+##### Genius, transhumanist, egomaniac, fox  
   
   
 ### 💬 Contacts  
