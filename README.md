@@ -1,15 +1,19 @@
 # Plague 🦊 Fox  
 ##### Genius, transhumanist, egomaniac, fox  
   
+---  
   
 ### 💬 Tech stack  
-+ ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue)
-+ ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)
-+ ![Test](https://img.shields.io/badge/-Test-05122A?style=flat&logo=dart)
-+ ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-+ ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)
-+ ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)
   
++ ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue)  
++ ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)  
++ ![Test](https://img.shields.io/badge/-Test-05122A?style=flat&logo=dart)  
++ ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
++ ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)  
++ ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)  
++ ![1C:Enterprise](https://img.shields.io/badge/bsl-1C%3AEnterprise-05122A?style=flat)  
+  
+---  
   
 ### 💬 Contacts  
   
@@ -21,6 +25,7 @@
 + **GitHub:** [github.com/PlugFox](https://github.com/PlugFox/)  
 + **Gist:** [gist.github.com/PlugFox](https://gist.github.com/plugfox)    
   
+---  
   
 ### ⭐ Open Source Projects  
   
@@ -32,11 +37,13 @@
 [![extended_bloc](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=extended_bloc)](https://github.com/plugfox/extended_bloc)  
 [![docker_flutter](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=docker_flutter)](https://github.com/plugfox/docker_flutter)  
   
+---  
   
 ### 📈 Scores & Stats  
   
 [![PlugFox's Github Stats](https://github-readme-stats.vercel.app/api?username=plugfox&count_private=true&theme=default&show_icons=true)](https://github.com/plugfox) [![Coderanks Summary](https://badges.plugfox.dev/dart_rank.svg)](https://profile.codersrank.io/user/plugfox)  
   
+---  
   
 ### 🎯 Dart fundamentals
   
@@ -57,6 +64,7 @@
 + [Introduction to Dart VM](https://mrale.ph/dartvm/)  
 + [10 years of Dart](https://mrale.ph/talks/vmil2020/)  
   
+---  
   
 ### 🕊️ Flutter fundamentals
   
@@ -71,4 +79,5 @@
 + [FAQ](https://flutter.dev/docs/resources/faq)  
 + [Apps take flight with Flutter](https://flutter.dev/showcase) 
   
+---  
   
