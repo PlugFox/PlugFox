@@ -5,13 +5,13 @@
   
 ### 💬 Tech stack  
   
-+ ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue)  
-+ ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)  
-+ ![Test](https://img.shields.io/badge/-Test-05122A?style=flat&logo=dart)  
-+ ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
-+ ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)  
-+ ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)  
-+ ![1C:Enterprise](https://img.shields.io/badge/1C-1C%3AEnterprise-05122A?style=flat)  
++ [![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue)](https://dart.dev/)  
++ [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)](http://flutter.dev/)  
++ [![Test](https://img.shields.io/badge/-Test-05122A?style=flat&logo=dart)](https://dart.dev/guides/testing)  
++ [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://www.javascript.com/)  
++ [![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)](https://kotlinlang.org/)  
++ [![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)](https://dotnet.microsoft.com/)  
++ [![1C:Enterprise](https://img.shields.io/badge/1C-1C%3AEnterprise-05122A?style=flat)](https://1c-dn.com/)  
   
 ---  
   
