@@ -11,7 +11,7 @@
 + ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
 + ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)  
 + ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)  
-+ ![1C:Enterprise](https://img.shields.io/badge/bsl-1C%3AEnterprise-05122A?style=flat)  
++ ![1C:Enterprise](https://img.shields.io/badge/1C-1C%3AEnterprise-05122A?style=flat)  
   
 ---  
   
