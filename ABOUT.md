@@ -58,10 +58,11 @@
 ---
   
 ### Контакты:  
-+ Телеграм: @plugfox  
-+ Почта: plugfox@gmail.com  
-+ Сайт: https://plugfox.dev  
-+ Dart Pub: https://pub.dev/publishers/plugfox.dev  
-+ GitHub: https://github.com/plugfox  
-+ LinkedIn: https://www.linkedin.com/in/plugfox/  
-+ YouTube: https://www.youtube.com/c/DARTSIDE  
++ **Homepage:** [PlugFox.dev](https://plugfox.dev)  
++ **Telegram:** [@PlugFox](https://t.me/plugfox)   
++ **E-mail:** [PlugFox@gmail.com](mailto:plugfox@gmail.com)  
++ **Linkedin:** [linkedin.com/in/PlugFox](https://www.linkedin.com/in/plugfox/)  
++ **GitHub:** [github.com/PlugFox](https://github.com/PlugFox/)  
++ **Gist:** [gist.github.com/PlugFox](https://gist.github.com/plugfox)    
++ **Dart Pub:** [pub.dev/publishers/plugfox.dev](https://pub.dev/publishers/plugfox.dev)    
++ **YouTube:** [youtube.com/c/DARTSIDE](https://www.youtube.com/c/DARTSIDE)        
