@@ -1,5 +1,6 @@
 # Plague 🦊 Fox  
 ##### 𝓖𝓮𝓷𝓲𝓾𝓼, 𝓽𝓻𝓪𝓷𝓼𝓱𝓾𝓶𝓪𝓷𝓲𝓼𝓽, 𝓮𝓰𝓸𝓶𝓪𝓷𝓲𝓪𝓬, 𝓯𝓸𝔁  
+[**ABOUT ME**](./ABOUT.md)
   
 ---  
   
@@ -24,6 +25,8 @@
 + **Linkedin:** [linkedin.com/in/PlugFox](https://www.linkedin.com/in/plugfox/)  
 + **GitHub:** [github.com/PlugFox](https://github.com/PlugFox/)  
 + **Gist:** [gist.github.com/PlugFox](https://gist.github.com/plugfox)    
++ **Dart Pub:** [pub.dev/publishers/plugfox.dev](https://pub.dev/publishers/plugfox.dev)    
++ **YouTube:** [youtube.com/c/DARTSIDE](https://www.youtube.com/c/DARTSIDE)        
   
 ---  
   
