@@ -1,8 +1,5 @@
 # Plague 🦊 Fox  
 ##### Genius, transhumanist, egomaniac, fox  
-  
----
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="plugfox" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/plugfox?trk=profile-badge">Mikhail Matiunin</a></div>
               
 ---  
   
