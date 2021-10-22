@@ -33,11 +33,10 @@
 ### ⭐ Open Source Projects  
   
 [![platform_info](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=platform_info)](https://github.com/plugfox/platform_info)   
+[![l](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=l)](https://github.com/plugfox/l)  
 [![multiline](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=multiline)](https://github.com/plugfox/multiline)  
 [![pubspec_generator](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=pubspec_generator)](https://github.com/plugfox/pubspec_generator)  
 [![throttling](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=throttling)](https://github.com/PlugFox/throttling)  
-[![l](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=l)](https://github.com/plugfox/l)  
-[![extended_bloc](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=extended_bloc)](https://github.com/plugfox/extended_bloc)  
 [![docker_flutter](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=docker_flutter)](https://github.com/plugfox/docker_flutter)  
 <!--  
 ---  
