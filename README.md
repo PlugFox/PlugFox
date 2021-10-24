@@ -38,13 +38,13 @@
 [![pubspec_generator](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=pubspec_generator)](https://github.com/plugfox/pubspec_generator)  
 [![throttling](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=throttling)](https://github.com/PlugFox/throttling)  
 [![docker_flutter](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=docker_flutter)](https://github.com/plugfox/docker_flutter)  
-<!--  
+  
 ---  
   
 ### 📈 Scores & Stats  
   
 [![PlugFox's Github Stats](https://github-readme-stats.vercel.app/api?username=plugfox&count_private=true&theme=default&show_icons=true)](https://github.com/plugfox) [![Coderanks Summary](https://badges.plugfox.dev/dart_rank.svg)](https://profile.codersrank.io/user/plugfox)  
--->  
+  
 ---  
   
 ### 🎯 Dart fundamentals
