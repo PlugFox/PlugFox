@@ -1,21 +1,9 @@
 # Plague 🦊 Fox  
 ##### Genius, transhumanist, egomaniac, fox  
-              
----  
-  
-### 💬 Tech stack  
-  
-+ [![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue)](https://dart.dev/)  
-+ [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)](http://flutter.dev/)  
-+ [![Test](https://img.shields.io/badge/-Test-05122A?style=flat&logo=dart)](https://dart.dev/guides/testing)  
-+ [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://www.javascript.com/)  
-+ [![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)](https://kotlinlang.org/)  
-+ [![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)](https://dotnet.microsoft.com/)  
-+ [![1C:Enterprise](https://img.shields.io/badge/1C-1C%3AEnterprise-05122A?style=flat)](https://1c-dn.com/)  
   
 ---  
   
-### 💬 Contacts  
+### ☎️ Contacts  
   
 [![](https://github.com/PlugFox/PlugFox/blob/master/.img/qr-code-small-transparent.png)](https://plugfox.dev)  
 + **Homepage:** [PlugFox.dev](https://plugfox.dev)  
@@ -45,6 +33,18 @@
 ### 📈 Scores & Stats  
   
 [![PlugFox's Github Stats](https://github-readme-stats.vercel.app/api?username=plugfox&count_private=true&theme=default&show_icons=true)](https://github.com/plugfox) [![Coderanks Summary](https://badges.plugfox.dev/dart_rank.svg)](https://profile.codersrank.io/user/plugfox)  
+  
+---  
+  
+### ⚙️ Tech stack  
+  
++ [![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue)](https://dart.dev/)  
++ [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)](http://flutter.dev/)  
++ [![Test](https://img.shields.io/badge/-Test-05122A?style=flat&logo=dart)](https://dart.dev/guides/testing)  
++ [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://www.javascript.com/)  
++ [![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)](https://kotlinlang.org/)  
++ [![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)](https://dotnet.microsoft.com/)  
++ [![1C:Enterprise](https://img.shields.io/badge/1C-1C%3AEnterprise-05122A?style=flat)](https://1c-dn.com/)    
   
 ---  
   
