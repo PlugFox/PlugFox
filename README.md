@@ -24,7 +24,8 @@
   
   
 [![docker_flutter](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=docker_flutter)](https://github.com/plugfox/docker_flutter)  
-[![platform_info](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=platform_info)](https://github.com/plugfox/platform_info)   
+[![batteries](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=batteries)](https://github.com/plugfox/batteries)  
+[![platform_info](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=platform_info)](https://github.com/plugfox/platform_info)  
 [![l](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=l)](https://github.com/plugfox/l)  
 [![multiline](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=multiline)](https://github.com/plugfox/multiline)  
 [![pubspec_generator](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=pubspec_generator)](https://github.com/plugfox/pubspec_generator)  
