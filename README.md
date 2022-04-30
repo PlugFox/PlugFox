@@ -57,6 +57,7 @@
 + [Dart.dev](https://dart.dev/)  
 + [A tour of the Dart language](https://dart.dev/guides/language/language-tour)   
 + [A tour of the core libraries](https://dart.dev/guides/libraries/library-tour)  
++ [Visual Studio Snippets](https://github.com/PlugFox/snippets/tree/master/code)  
 + [Dart cheatsheet](https://dart.dev/codelabs/dart-cheatsheet)  
 + [Futures, async, await](https://dart.dev/codelabs/dart-cheatsheet)  
 + [Streams](https://dart.dev/tutorials/language/streams)  
