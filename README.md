@@ -88,6 +88,7 @@
 + [FAQ](https://flutter.dev/docs/resources/faq)  
 + [Apps take flight with Flutter](https://flutter.dev/showcase) 
 + [Garbadge collector](https://medium.com/flutter/flutter-dont-fear-the-garbage-collector-d69b3ff1ca30)
++ [Simple app state managment and Lifting State Up](https://docs.flutter.dev/development/data-and-backend/state-mgmt/simple#lifting-state-up)
   
 ---  
   
