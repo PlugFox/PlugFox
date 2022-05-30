@@ -1,5 +1,5 @@
 # Plague 🦊 Fox  
-##### Genius, transhumanist, egomaniac, fox  
+##### ᑕOᗰE TO TᕼE ᗪᗩᖇT ᔕIᗪE
   
 ---  
   
