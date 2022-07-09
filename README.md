@@ -17,7 +17,7 @@
 + **Dart Pub:** [pub.dev/publishers/plugfox.dev](https://pub.dev/publishers/plugfox.dev)   
 + **YouTube:** [youtube.com/c/DARTSIDE](https://www.youtube.com/c/DARTSIDE)  
 + **CodersRank:** [profile.codersrank.io/user/plugfox](https://profile.codersrank.io/user/plugfox)  
-+ [**ABOUT ME**](./ABOUT.md)
++ [**ABOUT ME**](https://plugfox.dev/about/)
   
 ---  
   
