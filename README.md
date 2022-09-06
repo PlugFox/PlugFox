@@ -33,6 +33,7 @@
 [![multiline](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=multiline)](https://github.com/plugfox/multiline)  
 [![pubspec_generator](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=pubspec_generator)](https://github.com/plugfox/pubspec_generator)  
 [![xor_cipher](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=xor_cipher)](https://github.com/plugfox/xor_cipher)  
+[![leetcode](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=leetcode)](https://github.com/PlugFox/leetcode)  
   
 ---  
   
