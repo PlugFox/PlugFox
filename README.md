@@ -25,6 +25,7 @@
   
   
 [![ws](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=ws)](https://github.com/PlugFox/ws)  
+[![centrifuge-dart](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=centrifuge-dart)](https://github.com/PlugFox/centrifuge-dart)  
 [![isolation](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=isolation)](https://github.com/PlugFox/isolation)  
 [![snippets](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=snippets)](https://github.com/PlugFox/snippets)  
 [![docker_flutter](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=docker_flutter)](https://github.com/plugfox/docker_flutter)  
