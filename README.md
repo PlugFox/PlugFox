@@ -25,6 +25,8 @@
   
   
 [![ws](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=ws)](https://github.com/PlugFox/ws)  
+[![ws](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=octopus)](https://github.com/PlugFox/octopus)  
+[![ws](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=control)](https://github.com/PlugFox/control)  
 [![spinify](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=spinify)](https://github.com/PlugFox/spinify)  
 [![isolation](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=isolation)](https://github.com/PlugFox/isolation)  
 [![snippets](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=snippets)](https://github.com/PlugFox/snippets)  
@@ -51,48 +53,11 @@
 + [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)](http://flutter.dev/)  
 + [![Test](https://img.shields.io/badge/-Test-05122A?style=flat&logo=dart)](https://dart.dev/guides/testing)  
 + [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://www.javascript.com/)  
++ [![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)](https://go.dev/)  
 + [![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)](https://kotlinlang.org/)  
-+ [![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)](https://dotnet.microsoft.com/)  
-+ [![1C:Enterprise](https://img.shields.io/badge/1C-1C%3AEnterprise-05122A?style=flat)](https://1c-dn.com/)    
-  
----  
-  
-### 🎯 Dart fundamentals
-  
-+ [Dart.dev](https://dart.dev/)  
-+ [A tour of the Dart language](https://dart.dev/guides/language/language-tour)   
-+ [A tour of the core libraries](https://dart.dev/guides/libraries/library-tour)  
-+ [Visual Studio Snippets](https://github.com/PlugFox/snippets/tree/master/code)  
-+ [Dart cheatsheet](https://dart.dev/codelabs/dart-cheatsheet)  
-+ [Futures, async, await](https://dart.dev/codelabs/dart-cheatsheet)  
-+ [Streams](https://dart.dev/tutorials/language/streams)  
-+ [Isolates and event loops](https://medium.com/dartlang/dart-asynchronous-programming-isolates-and-event-loops-bffc3e296a6a)  
-+ [Zones](https://dart.dev/articles/archive/zones)  
-+ [API reference](https://api.dart.dev/dev/)  
-+ [DartPad](https://dartpad.dev/)  
-+ [Pub](https://pub.dev/)  
-+ [Awesome Dart](https://github.com/yissachar/awesome-dart)  
-+ [Effective Dart](https://dart.dev/guides/language/effective-dart)  
-+ [Linter for Dart](https://dart-lang.github.io/linter/lints/)  
-+ [Introduction to Dart VM](https://mrale.ph/dartvm/)  
-+ [10 years of Dart](https://mrale.ph/talks/vmil2020/)  
-  
----  
-  
-### 🕊️ Flutter fundamentals
-  
-+ [Flutter.dev](https://flutter.dev/)  
-+ [Understanding constraints](https://flutter.dev/docs/development/ui/layout/constraints)  
-+ [API reference](https://master-api.flutter.dev/)  
-+ [Flutter internals](https://www.didierboelens.com/2019/09/flutter-internals/) 
-+ [Flutter architectural overview](https://flutter.dev/docs/resources/architectural-overview)  
-+ [Inside Flutter](https://flutter.dev/docs/resources/inside-flutter)  
-+ [Platform specific behaviors and adaptations](https://flutter.dev/docs/resources/platform-adaptations)  
-+ [Widget - State - Context - InheritedWidget](https://www.didierboelens.com/2018/06/widget-state-context-inheritedwidget)  
-+ [FAQ](https://flutter.dev/docs/resources/faq)  
-+ [Apps take flight with Flutter](https://flutter.dev/showcase) 
-+ [Garbadge collector](https://medium.com/flutter/flutter-dont-fear-the-garbage-collector-d69b3ff1ca30)
-+ [Simple app state managment and Lifting State Up](https://docs.flutter.dev/development/data-and-backend/state-mgmt/simple#lifting-state-up)
-  
----  
++ [![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))  
++ [![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=cplusplus)](https://en.wikipedia.org/wiki/C%2B%2B)  
++ [![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)](https://dotnet.microsoft.com/)
++ [![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)](https://www.docker.com/)  
++ [![1C:Enterprise](https://img.shields.io/badge/1C-1C%3AEnterprise-05122A?style=flat)](https://1c-dn.com/)  
   
