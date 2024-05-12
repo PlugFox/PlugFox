@@ -1,7 +1,6 @@
 # Plague 🦊 Fox  
-## ᑕOᗰE TO TᕼE ᗪᗩᖇT ᔕIᗪE  
+## Engineer by day, fox by night.  
   
-Engineer by day, fox by night.  
 Talks about [@dart-lang](https://github.com/dart-lang) and [@flutter](https://github.com/flutter)  
   
 ---  
