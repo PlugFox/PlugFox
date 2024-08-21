@@ -27,11 +27,10 @@ Talks about [@dart-lang](https://github.com/dart-lang) and [@flutter](https://gi
   
   
 [![ws](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=ws)](https://github.com/PlugFox/ws)  
-[![ws](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=octopus)](https://github.com/PlugFox/octopus)  
-[![ws](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=control)](https://github.com/PlugFox/control)  
+[![octopus](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=octopus)](https://github.com/PlugFox/octopus)  
+[![control](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=control)](https://github.com/PlugFox/control)  
 [![spinify](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=spinify)](https://github.com/PlugFox/spinify)  
-[![isolation](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=isolation)](https://github.com/PlugFox/isolation)  
-[![snippets](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=snippets)](https://github.com/PlugFox/snippets)  
+[![flutter-plus](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=flutter-plus)](https://github.com/PlugFox/flutter-plus)  
 [![docker_flutter](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=docker_flutter)](https://github.com/plugfox/docker_flutter)  
 [![batteries](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=batteries)](https://github.com/plugfox/batteries)  
 [![platform_info](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=platform_info)](https://github.com/plugfox/platform_info)  
@@ -39,7 +38,6 @@ Talks about [@dart-lang](https://github.com/dart-lang) and [@flutter](https://gi
 [![multiline](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=multiline)](https://github.com/plugfox/multiline)  
 [![pubspec_generator](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=pubspec_generator)](https://github.com/plugfox/pubspec_generator)  
 [![xor_cipher](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=xor_cipher)](https://github.com/plugfox/xor_cipher)  
-[![leetcode](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=leetcode)](https://github.com/PlugFox/leetcode)  
   
 ---  
   
