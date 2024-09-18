@@ -43,7 +43,7 @@ Talks about [@dart-lang](https://github.com/dart-lang) and [@flutter](https://gi
   
 ### 📈 Scores & Stats  
   
-[![PlugFox's Github Stats](https://github-readme-stats.vercel.app/api?username=plugfox&count_private=true&theme=default&show_icons=true)](https://github.com/plugfox) [![Coderanks Summary](https://badges.plugfox.dev/dart_rank.svg)](https://profile.codersrank.io/user/plugfox)  
+[![PlugFox's Github Stats](https://github-readme-stats.vercel.app/api?username=plugfox&count_private=true&theme=default&show_icons=true)](https://github.com/plugfox)
   
 ---  
   
