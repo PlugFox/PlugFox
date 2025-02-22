@@ -30,6 +30,7 @@ Talks about [@dart-lang](https://github.com/dart-lang) and [@flutter](https://gi
 [![control](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=control)](https://github.com/PlugFox/control)  
 [![repaint](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=repaint)](https://github.com/PlugFox/repaint)  
 [![octopus](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=octopus)](https://github.com/PlugFox/octopus)  
+[![vixen](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=vixen)](https://github.com/PlugFox/vixen)  
 [![ws](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=ws)](https://github.com/PlugFox/ws)  
 [![flutter-plus](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=flutter-plus)](https://github.com/PlugFox/flutter-plus)  
 [![docker_flutter](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=docker_flutter)](https://github.com/plugfox/docker_flutter)  
