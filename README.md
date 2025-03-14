@@ -51,15 +51,16 @@ Talks about [@dart-lang](https://github.com/dart-lang) and [@flutter](https://gi
   
 ### ⚙️ Tech stack  
   
-+ [![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue)](https://dart.dev/)  
-+ [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)](http://flutter.dev/)  
-+ [![Test](https://img.shields.io/badge/-Test-05122A?style=flat&logo=dart)](https://dart.dev/guides/testing)  
-+ [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://www.javascript.com/)  
-+ [![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)](https://go.dev/)  
-+ [![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)](https://kotlinlang.org/)  
-+ [![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))  
-+ [![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=cplusplus)](https://en.wikipedia.org/wiki/C%2B%2B)  
++ [![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue)](https://dart.dev/)
++ [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)](http://flutter.dev/)
++ [![Test](https://img.shields.io/badge/-Test-05122A?style=flat&logo=dart)](https://dart.dev/guides/testing)
++ [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](https://www.javascript.com/)
++ [![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)](https://go.dev/)
++ [![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)](https://kotlinlang.org/)
++ [![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
++ [![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=cplusplus)](https://en.wikipedia.org/wiki/C%2B%2B)
 + [![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)](https://dotnet.microsoft.com/)
-+ [![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)](https://www.docker.com/)  
++ [![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)](https://sqlite.org/)
++ [![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)](https://www.docker.com/)
 + [![1C:Enterprise](https://img.shields.io/badge/1C-1C%3AEnterprise-05122A?style=flat)](https://1c-dn.com/)  
   
