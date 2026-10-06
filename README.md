@@ -26,6 +26,8 @@ Talks about [@dart-lang](https://github.com/dart-lang) and [@flutter](https://gi
 ### ⭐ Open Source Projects  
   
   
+[![control](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=g1455)](https://github.com/PlugFox/g1455)  
+[![control](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=squid)](https://github.com/PlugFox/squid)  
 [![spinify](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=spinify)](https://github.com/PlugFox/spinify)  
 [![control](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=control)](https://github.com/PlugFox/control)  
 [![repaint](https://github-readme-stats.vercel.app/api/pin/?username=plugfox&repo=repaint)](https://github.com/PlugFox/repaint)  
